@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author:XuMing(xuming624@qq.com)
+
 @description: Build chinese tokenizer from corpus txt
 
 # train sentencepiece model from `corpus.txt` and makes `m.model` and `m.vocab`

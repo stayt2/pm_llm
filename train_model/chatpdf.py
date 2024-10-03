@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author:XuMing(xuming624@qq.com)
+
 @description:
 
 pip install similarities PyPDF2 -U

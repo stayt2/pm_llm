@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author:XuMing(xuming624@qq.com)
+
 @description: Train a model from SFT using DPO
 """
 import os
